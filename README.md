@@ -19,7 +19,7 @@ Para ejecutar este análisis de forma interactiva en Google Colab, sigue estos p
 
 Haz clic en el botón Open in Colab (si tienes el badge) o ve a colab.research.google.com.
 
-https://colab.research.google.com/drive/1XHid2Z9bweQ0rCqwvTJWMAo0lIxeL91u?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/analysis_latam_cities/blob/main/analysis_latam_cities.ipynb)
 
 Selecciona la pestaña GitHub e ingresa la URL de este repositorio.
 
