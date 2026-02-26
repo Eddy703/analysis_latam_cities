@@ -1,9 +1,9 @@
 # analysis_latam_cities
 
-✔ ¿De qué trata este proyecto?
+✔ ##¿De qué trata este proyecto?##
 Este proyecto tiene como objetivo evaluar la relación entre la movilidad urbana y la productividad económica en las principales metrópolis de América Latina. Utilizando datos reales, se busca identificar patrones de congestión vehicular y su impacto en indicadores económicos para determinar ciudades prioritarias que requieren inversión en infraestructura de transporte.
 
-✔ ¿Qué contiene este repositorio?
+✔ ##¿Qué contiene este repositorio?##
 analysis_latam_cities.ipynb: Notebook principal que contiene todo el flujo de trabajo, desde la carga de datos hasta las conclusiones finales.
 
 Datasets: El análisis integra dos fuentes principales de datos:
@@ -14,16 +14,18 @@ oecd_city_economy.csv: Indicadores económicos como PIB per cápita, desempleo y
 
 Procesamiento: Scripts para la limpieza de datos, estandarización de formatos numéricos y unión de bases de datos por ciudad y año.
 
-✔ ¿Cómo abrir el notebook en Colab?
+✔ ##¿Cómo abrir el notebook en Colab?##
 Para ejecutar este análisis de forma interactiva en Google Colab, sigue estos pasos:
 
 Haz clic en el botón Open in Colab (si tienes el badge) o ve a colab.research.google.com.
+
+https://colab.research.google.com/drive/1XHid2Z9bweQ0rCqwvTJWMAo0lIxeL91u?usp=sharing
 
 Selecciona la pestaña GitHub e ingresa la URL de este repositorio.
 
 Selecciona el archivo analysis_latam_cities.ipynb.
 
-✔ ¿Cómo reproducir tu análisis?
+✔ ##¿Cómo reproducir tu análisis?##
 El análisis está diseñado para ser ejecutado de manera secuencial. Sigue este orden dentro del notebook:
 
 Paso 1: Carga y Exploración: Se importan las librerías (pandas, numpy, seaborn, matplotlib) y se cargan los archivos CSV desde la ruta /datasets/.
