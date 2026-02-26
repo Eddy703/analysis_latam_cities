@@ -17,11 +17,11 @@ Procesamiento: Scripts para la limpieza de datos, estandarización de formatos n
 ✔ ##¿Cómo abrir el notebook en Colab?##
 Para ejecutar este análisis de forma interactiva en Google Colab, sigue estos pasos:
 
-Haz clic en el botón Open in Colab (si tienes el badge) o ve a colab.research.google.com.
+Haz clic en el botón Open in Colab  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/analysis_latam_cities/blob/main/analysis_latam_cities.ipynb)
 
-Selecciona la pestaña GitHub e ingresa la URL de este repositorio.
+O selecciona la pestaña GitHub e ingresa la URL de este repositorio.
 
 Selecciona el archivo analysis_latam_cities.ipynb.
 
